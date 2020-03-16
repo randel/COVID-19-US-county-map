@@ -2,7 +2,7 @@
 "1","New York","New York",463
 "2","New York","Westchester",220
 "3","New York","Nassau",109
-"4","New York","Suffolk",64
+"4","New York","Suffolk",63
 "5","New York","Rockland",16
 "6","New York","Albany",15
 "7","New York","Orange",11
@@ -49,7 +49,7 @@
 "50","California","Contra Costa",29
 "51","California","Orange",17
 "52","California","Alameda",15
-"53","California","Riverside",14
+"53","California","Riverside",15
 "54","California","Marin",9
 "55","California","San Joaquin",8
 "56","California","Solano",7
@@ -137,9 +137,9 @@
 "144","New Jersey","Hunterdon",1
 "145","Georgia","Fulton",27
 "146","Georgia","Cobb",22
-"148","Georgia","DeKalb",10
+"147","Georgia","DeKalb",10
 "149","Georgia","Bartow",9
-"150","Georgia","Cherokee",6
+"150","Georgia","Cherokee",7
 "151","Georgia","Dougherty",6
 "152","Georgia","Fayette",5
 "153","Georgia","Floyd",4
@@ -175,38 +175,38 @@
 "184","Illinois","Woodford",1
 "185","Illinois","Cumberland",1
 "186","Illinois","Champaign",1
-"187","Pennsylvania","Montgomery",30
-"188","Pennsylvania","Monroe",8
-"189","Pennsylvania","Philadelphia",8
-"190","Pennsylvania","Delaware",7
-"191","Pennsylvania","Allegheny",6
-"192","Pennsylvania","Bucks",5
-"193","Pennsylvania","Cumberland",5
-"194","Pennsylvania","Chester",2
-"195","Pennsylvania","Wayne",1
-"196","Pennsylvania","Northampton",1
-"197","Pennsylvania","Pike",1
-"198","Pennsylvania","Washington",1
-"199","Pennsylvania","Lehigh",1
-"200","Pennsylvania","Luzerne",1
-"201","Texas","Dallas",14
-"202","Texas","Harris",13
-"203","Texas","Fort Bend",9
-"204","Texas","Collin",8
-"205","Texas","Travis",6
-"206","Texas","Tarrant",4
-"207","Texas","Montgomery",4
-"208","Texas","Smith",4
-"209","Texas","Bexar",3
-"210","Texas","El Paso",2
-"211","Texas","Brazoria",2
-"212","Texas","Gregg",1
-"213","Texas","Lavaca",1
-"214","Texas","Bell",1
-"215","Texas","Galveston",1
-"216","Texas","Hays",1
-"217","Texas","Matagorda",1
-"218","Texas","Denton",1
+"187","Texas","Dallas",14
+"188","Texas","Harris",13
+"189","Texas","Fort Bend",9
+"190","Texas","Collin",8
+"191","Texas","Travis",6
+"192","Texas","Tarrant",4
+"193","Texas","Montgomery",4
+"194","Texas","Smith",4
+"195","Texas","Bexar",3
+"196","Texas","El Paso",2
+"197","Texas","Brazoria",2
+"198","Texas","Gregg",1
+"199","Texas","Lavaca",1
+"200","Texas","Bell",1
+"201","Texas","Galveston",1
+"202","Texas","Hays",1
+"203","Texas","Matagorda",1
+"204","Texas","Denton",1
+"205","Pennsylvania","Montgomery",30
+"206","Pennsylvania","Monroe",8
+"207","Pennsylvania","Philadelphia",8
+"208","Pennsylvania","Delaware",7
+"209","Pennsylvania","Bucks",5
+"210","Pennsylvania","Cumberland",5
+"211","Pennsylvania","Allegheny",5
+"212","Pennsylvania","Chester",2
+"213","Pennsylvania","Wayne",1
+"214","Pennsylvania","Northampton",1
+"215","Pennsylvania","Pike",1
+"216","Pennsylvania","Washington",1
+"217","Pennsylvania","Lehigh",1
+"218","Pennsylvania","Luzerne",1
 "220","Minnesota","Hennepin",12
 "221","Minnesota","Ramsey",8
 "222","Minnesota","Dakota",3
