@@ -27,8 +27,8 @@
 "26","Washington","Snohomish",200
 "28","Washington","Pierce",38
 "29","Washington","Island",6
-"30","Washington","Clark",4
-"31","Washington","Skagit",4
+"30","Washington","Skagit",5
+"31","Washington","Clark",4
 "32","Washington","Thurston",4
 "33","Washington","Yakima",4
 "34","Washington","Grant",3
@@ -171,7 +171,7 @@
 "180","Georgia","Forsyth",1
 "181","Georgia","Hall",1
 "182","Georgia","Paulding",1
-"183","Illinois","Cook",70
+"183","Illinois","Cook",62
 "185","Illinois","Kane",4
 "186","Illinois","Lake",4
 "187","Illinois","Saint Clair",4
