@@ -1,15 +1,15 @@
 "","state","county","cases"
 "1","New York","New York",463
-"2","New York","Westchester",196
-"3","New York","Nassau",98
-"5","New York","Suffolk",47
+"2","New York","Westchester",220
+"3","New York","Nassau",109
+"4","New York","Suffolk",63
+"5","New York","Rockland",16
 "6","New York","Albany",15
-"7","New York","Rockland",13
+"7","New York","Orange",11
 "8","New York","Monroe",10
-"9","New York","Dutchess",7
-"10","New York","Erie",7
-"11","New York","Orange",6
-"12","New York","Ulster",5
+"9","New York","Dutchess",10
+"10","New York","Ulster",7
+"11","New York","Erie",7
 "13","New York","Saratoga",3
 "14","New York","Schenectady",2
 "15","New York","Putnam",2
@@ -176,8 +176,8 @@
 "185","Illinois","Cumberland",1
 "186","Illinois","Champaign",1
 "187","Pennsylvania","Montgomery",30
-"188","Pennsylvania","Philadelphia",10
-"189","Pennsylvania","Monroe",8
+"188","Pennsylvania","Monroe",8
+"189","Pennsylvania","Philadelphia",8
 "190","Pennsylvania","Delaware",7
 "191","Pennsylvania","Allegheny",6
 "192","Pennsylvania","Bucks",5
