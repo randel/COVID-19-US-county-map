@@ -24,7 +24,7 @@
 "23","New York","Onondaga",1
 "24","New York","Ontario",1
 "25","Washington","King",420
-"26","Washington","Snohomish",176
+"26","Washington","Snohomish",200
 "28","Washington","Pierce",29
 "29","Washington","Island",6
 "30","Washington","Clark",4
@@ -399,10 +399,11 @@
 "421","Maine","Lincoln",2
 "422","Maine","Androscoggin",1
 "423","Maine","Knox",1
-"425","Vermont","Windsor",3
-"426","Vermont","Bennington",2
-"427","Vermont","Chittenden",2
-"428","Vermont","Washington",1
+"424","Vermont","Chittenden",4
+"425","Vermont","Bennington",3
+"426","Vermont","Windsor",3
+"427","Vermont","Washington",1
+"428","Vermont","Orange",1
 "429","Mississippi","Forrest",3
 "430","Mississippi","Pearl River",3
 "431","Mississippi","Copiah",2
