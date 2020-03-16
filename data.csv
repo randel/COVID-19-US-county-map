@@ -128,11 +128,11 @@
 "135","New Jersey","Essex",11
 "136","New Jersey","Burlington",6
 "137","New Jersey","Passaic",5
-"138","New Jersey","Union",4
-"139","New Jersey","Morris",4
-"140","New Jersey","Ocean",3
-"141","New Jersey","Camden",2
-"142","New Jersey","Somerset",1
+"138","New Jersey","Somerset",5
+"139","New Jersey","Union",4
+"140","New Jersey","Morris",4
+"141","New Jersey","Ocean",3
+"142","New Jersey","Camden",2
 "143","New Jersey","Mercer",1
 "144","New Jersey","Hunterdon",1
 "145","Georgia","Fulton",27
@@ -140,16 +140,16 @@
 "147","Georgia","DeKalb",10
 "148","Georgia","Bartow",9
 "149","Georgia","Cherokee",7
-"151","Georgia","Dougherty",6
+"150","Georgia","Dougherty",6
+"151","Georgia","Gwinnett",5
 "152","Georgia","Fayette",5
 "153","Georgia","Clayton",5
-"154","Georgia","Floyd",4
-"155","Georgia","Gwinnett",4
-"156","Georgia","Lowndes",2
-"157","Georgia","Lee",2
-"158","Georgia","Gordon",2
-"159","Georgia","Coweta",2
-"160","Georgia","Clarke",2
+"155","Georgia","Floyd",4
+"156","Georgia","Clarke",3
+"157","Georgia","Lowndes",2
+"158","Georgia","Lee",2
+"159","Georgia","Gordon",2
+"160","Georgia","Coweta",2
 "161","Georgia","Polk",1
 "162","Georgia","Charlton",1
 "163","Georgia","Henry",1
@@ -247,13 +247,13 @@
 "260","Ohio","Butler",6
 "261","Ohio","Stark",3
 "262","Ohio","Franklin",3
-"263","Ohio","Trumbull",2
-"264","Ohio","Belmont",2
-"265","Ohio","Summit",2
-"266","Ohio","Lorain",2
-"267","Ohio","Lucas",1
-"268","Ohio","Tuscarawas",1
-"269","Ohio","Medina",1
+"263","Ohio","Lorain",3
+"264","Ohio","Trumbull",2
+"265","Ohio","Belmont",2
+"266","Ohio","Summit",2
+"267","Ohio","Medina",2
+"268","Ohio","Lucas",1
+"269","Ohio","Tuscarawas",1
 "270","Ohio","Geauga",1
 "273","Nevada","Clark",35
 "274","Nevada","Washoe",9
