@@ -38,8 +38,8 @@
 "39","Washington","Kitsap",7
 "40","Washington","Whatcom",6
 "41","Washington","Thurston",5
-"42","Washington","Clark",4
-"43","Washington","Yakima",4
+"42","Washington","Yakima",5
+"43","Washington","Clark",4
 "44","Washington","Spokane",4
 "45","Washington","Jefferson",3
 "46","Washington","Kittitas",3
@@ -436,6 +436,7 @@
 "455","Kentucky","Nelson",1
 "456","Kentucky","Clark",1
 "457","Kentucky","Bourbon",1
+"458","Kentucky","Lyon",1
 "459","Rhode Island","Providence",23
 "460","Iowa","Johnson",15
 "461","Iowa","Dallas",2
@@ -449,62 +450,62 @@
 "469","New Mexico","Socorro",2
 "470","New Mexico","Sandoval",2
 "471","New Mexico","Taos",1
-"473","District of Columbia","District of Columbia",22
-"476","Arkansas","Jefferson",3
-"480","Nebraska","Douglas",19
-"481","Nebraska","Knox",1
-"482","Nebraska","Cass",1
-"483","Mississippi","Hinds",6
-"484","Mississippi","Leflore",4
-"485","Mississippi","Forrest",3
-"486","Mississippi","Pearl River",2
-"487","Mississippi","Copiah",2
-"488","Mississippi","Hancock",1
-"489","Mississippi","Monroe",1
-"490","Mississippi","Harrison",1
-"491","Mississippi","Jackson",1
-"492","Arizona","Maricopa",9
-"493","Arizona","Pinal",5
-"494","Arizona","Pima",4
-"495","Arizona","Graham",1
-"496","Arizona","Navajo",1
-"497","Oklahoma","Oklahoma",6
-"498","Oklahoma","Tulsa",3
-"499","Oklahoma","Cleveland",2
-"500","Oklahoma","Kay",2
-"501","Oklahoma","Out-of-State",2
-"502","Oklahoma","Jackson",1
-"503","Oklahoma","Payne",1
-"504","Oklahoma","Canadian",1
-"505","Oklahoma","Pawnee",1
-"506","Kansas","Johnson",10
-"507","Kansas","Wyandotte",4
-"508","Kansas","Butler",1
-"509","Kansas","Franklin",1
-"510","Kansas","Ford",1
-"511","Kansas","Douglas",1
-"512","Delaware","New Castle",15
-"513","Delaware","Sussex",1
-"514","Vermont","Chittenden",4
-"515","Vermont","Bennington",3
-"516","Vermont","Windsor",3
-"517","Vermont","Washington",1
-"518","Vermont","Orange",1
-"519","South Dakota","Minnehaha",5
-"520","South Dakota","Pennington",1
-"521","South Dakota","Beadle",1
-"522","South Dakota","Charles Mix",1
-"523","South Dakota","Davison",1
-"524","South Dakota","Bon Homme",1
-"525","South Dakota","McCook",1
-"526","Hawaii","Honolulu",6
-"527","Hawaii","Kauai",2
-"528","Hawaii","Maui",2
-"529","Missouri","Saint Louis",4
-"530","Missouri","Greene",3
-"531","Missouri","Henry",1
-"533","Missouri","Cass",1
-"534","Missouri","Jackson",1
+"472","District of Columbia","District of Columbia",22
+"475","Arkansas","Jefferson",3
+"479","Nebraska","Douglas",19
+"480","Nebraska","Knox",1
+"481","Nebraska","Cass",1
+"482","Mississippi","Hinds",6
+"483","Mississippi","Leflore",4
+"484","Mississippi","Forrest",3
+"485","Mississippi","Pearl River",2
+"486","Mississippi","Copiah",2
+"487","Mississippi","Hancock",1
+"488","Mississippi","Monroe",1
+"489","Mississippi","Harrison",1
+"490","Mississippi","Jackson",1
+"491","Arizona","Maricopa",9
+"492","Arizona","Pinal",5
+"493","Arizona","Pima",4
+"494","Arizona","Graham",1
+"495","Arizona","Navajo",1
+"496","Oklahoma","Oklahoma",6
+"497","Oklahoma","Tulsa",3
+"498","Oklahoma","Cleveland",2
+"499","Oklahoma","Kay",2
+"501","Oklahoma","Jackson",1
+"502","Oklahoma","Payne",1
+"503","Oklahoma","Canadian",1
+"504","Oklahoma","Pawnee",1
+"505","Kansas","Johnson",10
+"506","Kansas","Wyandotte",4
+"507","Kansas","Butler",1
+"508","Kansas","Franklin",1
+"509","Kansas","Ford",1
+"510","Kansas","Douglas",1
+"511","Delaware","New Castle",15
+"512","Delaware","Sussex",1
+"513","Vermont","Chittenden",4
+"514","Vermont","Bennington",3
+"515","Vermont","Windsor",3
+"516","Vermont","Washington",1
+"517","Vermont","Orange",1
+"518","Missouri","Saint Louis",4
+"519","Missouri","Greene",3
+"520","Missouri","Henry",1
+"522","Missouri","Cass",1
+"523","Missouri","Jackson",1
+"524","Missouri","Cole",1
+"525","South Dakota","Minnehaha",5
+"526","South Dakota","Pennington",1
+"527","South Dakota","Beadle",1
+"528","South Dakota","Charles Mix",1
+"529","South Dakota","Davison",1
+"530","South Dakota","Bon Homme",1
+"531","South Dakota","McCook",1
+"532","Hawaii","Honolulu",6
+"533","Hawaii","Kauai",2
+"534","Hawaii","Maui",2
 "535","Wyoming","Fremont",8
 "536","Wyoming","Sheridan",2
 "538","Montana","Missoula",3
