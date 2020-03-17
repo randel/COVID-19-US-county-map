@@ -62,16 +62,16 @@
 "62","California","Ventura",4
 "63","California","San Benito",3
 "64","California","Stanislaus",3
-"65","California","San Luis Obispo",3
-"66","California","Yolo",2
-"67","California","Fresno",2
-"68","California","Calaveras",2
-"69","California","Tulare",2
+"65","California","Tulare",3
+"66","California","San Luis Obispo",3
+"67","California","Yolo",2
+"68","California","Fresno",2
+"69","California","Calaveras",2
 "70","California","Imperial",2
-"71","California","Humboldt",1
-"72","California","Madera",1
-"73","California","Shasta",1
-"74","California","San Bernardino",1
+"71","California","San Bernardino",2
+"72","California","Humboldt",1
+"73","California","Madera",1
+"74","California","Shasta",1
 "75","California","Santa Barbara",1
 "76","California","Nevada",1
 "77","Massachusetts","Middlesex",83
@@ -169,20 +169,21 @@
 "178","Georgia","Gordon",2
 "179","Georgia","Coweta",2
 "180","Georgia","Henry",2
-"181","Georgia","Polk",1
-"182","Georgia","Charlton",1
-"183","Georgia","Newton",1
-"184","Georgia","Troup",1
-"185","Georgia","Forsyth",1
-"186","Georgia","Hall",1
-"187","Georgia","Paulding",1
-"188","Illinois","Cook",76
-"189","Illinois","Lake",6
-"190","Illinois","Dupage",5
-"191","Illinois","Kane",3
-"192","Illinois","McHenry",2
-"193","Illinois","Saint Clair",2
-"194","Illinois","Sangamon",4
+"181","Georgia","Augusta",2
+"182","Georgia","Polk",1
+"183","Georgia","Charlton",1
+"184","Georgia","Newton",1
+"185","Georgia","Troup",1
+"186","Georgia","Forsyth",1
+"187","Georgia","Hall",1
+"188","Georgia","Paulding",1
+"189","Illinois","Cook",76
+"190","Illinois","Lake",6
+"191","Illinois","Dupage",5
+"192","Illinois","Sangamon",4
+"193","Illinois","Kane",3
+"194","Illinois","McHenry",2
+"195","Illinois","Saint Clair",2
 "196","Illinois","Woodford",1
 "197","Illinois","Cumberland",1
 "198","Illinois","Champaign",1
@@ -204,10 +205,10 @@
 "214","Texas","Hays",3
 "215","Texas","Bell",2
 "216","Texas","Brazoria",2
-"217","Texas","Gregg",1
-"218","Texas","Lavaca",1
-"219","Texas","Galveston",1
-"220","Texas","Matagorda",1
+"217","Texas","Matagorda",2
+"218","Texas","Gregg",1
+"219","Texas","Lavaca",1
+"220","Texas","Galveston",1
 "221","Texas","Denton",1
 "222","Texas","Bowie",1
 "223","Texas","Webb",1
@@ -310,7 +311,7 @@
 "322","Oregon","Umatilla",2
 "323","Oregon","Multnomah",2
 "324","Oregon","Clackamas",2
-"325","Oregon","<U+200B>Benton",2
+"325","Oregon","Benton",2
 "326","Oregon","Klamath",1
 "327","Oregon","Douglas",1
 "328","Oregon","Polk",1
