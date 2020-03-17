@@ -214,266 +214,268 @@
 "222","Texas","Bowie",1
 "223","Texas","Webb",1
 "224","Texas","Rusk",1
-"225","Pennsylvania","Montgomery",30
-"226","Pennsylvania","Philadelphia",10
-"227","Pennsylvania","Monroe",8
-"228","Pennsylvania","Delaware",7
-"229","Pennsylvania","Bucks",7
-"230","Pennsylvania","Chester",6
-"231","Pennsylvania","Allegheny",6
-"232","Pennsylvania","Cumberland",5
-"233","Pennsylvania","Wayne",1
-"234","Pennsylvania","Northampton",1
-"235","Pennsylvania","Pike",1
-"236","Pennsylvania","Washington",1
-"237","Pennsylvania","Lehigh",1
-"238","Pennsylvania","Luzerne",1
-"239","Pennsylvania","Beaver",1
-"240","Michigan","Oakland",14
-"241","Michigan","Wayne",14
-"242","Michigan","Washtenaw",7
-"243","Michigan","Macomb",6
-"244","Michigan","Kent",5
-"245","Michigan","Ingham",3
-"246","Michigan","Saint Clair",2
-"247","Michigan","Montcalm",1
-"248","Michigan","Bay",1
-"249","Michigan","Charlevoix",1
-"250","Michigan","Monroe",1
-"251","Michigan","Ottawa",1
-"252","Michigan","Grand Traverse",1
-"253","Michigan","Otsego",1
-"254","Minnesota","Hennepin",22
-"255","Minnesota","Ramsey",10
-"256","Minnesota","Dakota",5
-"257","Minnesota","Anoka",3
-"258","Minnesota","Olmsted",3
-"259","Minnesota","Stearns",3
-"260","Minnesota","Washington",2
-"261","Minnesota","Carver",1
-"262","Minnesota","Wright",1
-"263","Minnesota","Renville",1
-"264","Minnesota","Waseca",1
-"265","Minnesota","Blue Earth",1
-"266","Minnesota","Benton",1
-"267","Tennessee","Davidson",25
-"268","Tennessee","Williamson",18
-"269","Tennessee","Shelby",2
-"270","Tennessee","Sullivan",1
-"271","Tennessee","Knox",1
-"272","Tennessee","Hamilton",1
-"273","Tennessee","Jefferson",1
-"274","Tennessee","Rutherford",1
-"275","Tennessee","Campbell",1
-"276","Tennessee","Sevier",1
-"277","Virginia","Fairfax",10
-"278","Virginia","James City",10
-"279","Virginia","Arlington",9
-"280","Virginia","Loudoun",5
-"281","Virginia","Virginia Beach",4
-"282","Virginia","Prince William",3
-"283","Virginia","Alexandria",2
-"284","Virginia","Chesterfield",2
-"285","Virginia","Spotsylvania",1
-"286","Virginia","Hanover",1
-"287","Virginia","Prince Edward",1
-"288","Virginia","Harrisonburg",1
-"289","Virginia","Charlottesville",1
-"290","Virginia","Stafford",1
-"291","Virginia","Henrico",1
-"292","Virginia","York",0
-"293","Oregon","Washington",14
-"294","Oregon","Linn",14
-"295","Oregon","Deschutes",6
-"296","Oregon","Marion",3
-"297","Oregon","Jackson",2
-"298","Oregon","Umatilla",2
-"299","Oregon","Multnomah",2
-"300","Oregon","Clackamas",2
-"301","Oregon","Benton",2
-"302","Oregon","Klamath",1
-"303","Oregon","Douglas",1
-"304","Oregon","Polk",1
-"305","Oregon","Yamhill",1
-"306","Ohio","Cuyahoga",24
-"307","Ohio","Butler",6
-"308","Ohio","Stark",3
-"309","Ohio","Franklin",3
-"310","Ohio","Lorain",3
-"311","Ohio","Trumbull",2
-"312","Ohio","Belmont",2
-"313","Ohio","Summit",2
-"314","Ohio","Medina",2
-"315","Ohio","Lucas",1
-"316","Ohio","Tuscarawas",1
-"317","Ohio","Geauga",1
-"318","Wisconsin","Milwaukee",13
-"319","Wisconsin","Fond du Lac",11
-"320","Wisconsin","Dane",10
-"321","Wisconsin","Waukesha",3
-"322","Wisconsin","Sheboygan",3
-"323","Wisconsin","Winnebago",3
-"324","Wisconsin","Pierce",1
-"325","Wisconsin","Racine",1
-"326","Wisconsin","Wood",1
-"327","Wisconsin","Outagamie",1
-"328","Wisconsin","Kenosha",1
-"331","Nevada","Clark",35
-"332","Nevada","Washoe",9
-"333","Nevada","Carson City",1
-"334","Maryland","Montgomery",15
-"335","Maryland","Prince George's",10
-"336","Maryland","Baltimore",6
-"337","Maryland","Howard",4
-"338","Maryland","Harford",2
-"340","Maryland","Charles",1
-"341","Maryland","Anne Arundel",1
-"342","Maryland","Carroll",1
-"343","Maryland","Talbot",1
-"344","Maryland","Frederick",1
-"345","Utah","Salt Lake",16
-"347","Utah","Summit",6
-"348","Utah","Davis",4
-"349","Utah","Weber",2
-"351","Utah","Tooele",1
-"352","Utah","Wasatch",1
-"353","Connecticut","Fairfield",29
-"354","Connecticut","Litchfield",4
-"355","Connecticut","Hartford",4
-"356","Connecticut","New Haven",4
-"357","North Carolina","Wake",15
-"358","North Carolina","Mecklenburg",7
-"359","North Carolina","Harnett",3
-"360","North Carolina","Forsyth",2
-"361","North Carolina","Johnston",2
-"362","North Carolina","Chatham",1
-"363","North Carolina","Durham",1
-"364","North Carolina","Cabarrus",1
-"365","North Carolina","Onslow",1
-"366","North Carolina","Wayne",1
-"367","North Carolina","Brunswick",1
-"368","North Carolina","Craven",1
-"369","North Carolina","Watauga",1
-"370","North Carolina","Wilson",1
-"371","North Carolina","Iredell",1
-"372","North Carolina","Sampson",1
-"373","South Carolina","Kershaw",15
-"374","South Carolina","Beaufort",3
-"375","South Carolina","Horry",3
-"377","South Carolina","Lancaster",2
-"378","South Carolina","Lexington",2
-"379","South Carolina","Anderson",2
-"380","South Carolina","Charleston",1
-"381","South Carolina","Spartanburg",1
-"382","South Carolina","Greenville",1
-"383","South Carolina","Georgetown",1
-"384","Alabama","Jefferson",17
-"385","Alabama","Tuscaloosa",3
-"386","Alabama","Shelby",3
-"387","Alabama","Montgomery",2
-"388","Alabama","Elmore",1
-"389","Alabama","Limestone",1
-"390","Alabama","Baldwin",1
-"391","Alabama","Lee",1
-"392","Indiana","Marion",7
-"393","Indiana","Hendricks",3
-"394","Indiana","Johnson",3
-"395","Indiana","Howard",2
-"396","Indiana","Noble",1
-"397","Indiana","Adams",1
-"398","Indiana","Boone",1
-"399","Indiana","Saint Joseph",1
-"400","Indiana","Hancock",1
-"401","Indiana","Wells",1
-"402","Indiana","LaPorte",1
-"403","Indiana","Hamilton",1
-"404","Indiana","Floyd",1
-"405","Indiana","Bartholomew",1
-"406","Kentucky","Fayette",7
-"407","Kentucky","Jefferson",7
-"408","Kentucky","Harrison",6
-"409","Kentucky","Montgomery",2
-"410","Kentucky","Nelson",1
-"411","Kentucky","Clark",1
-"412","Kentucky","Bourbon",1
-"413","Iowa","Johnson",15
-"414","Iowa","Dallas",2
-"415","Iowa","Allamakee",2
-"416","Iowa","Pottawattamie",1
-"417","Iowa","Carroll",1
-"418","Iowa","Harrison",1
-"419","Iowa","Polk",1
-"420","District of Columbia","District of Columbia",22
-"423","Arkansas","Jefferson",3
-"424","Rhode Island","Providence",21
-"425","New Mexico","Bernalillo",14
-"426","New Mexico","Santa Fe",3
-"427","New Mexico","Socorro",2
-"428","New Mexico","Sandoval",2
-"431","Arizona","Maricopa",8
-"432","Arizona","Pinal",5
-"433","Arizona","Pima",4
-"434","Arizona","Graham",1
-"435","Nebraska","Douglas",16
-"436","Nebraska","Knox",1
-"437","Nebraska","Cass",1
-"438","New Hampshire","Rockingham",10
-"439","New Hampshire","Grafton",5
-"440","New Hampshire","Hillsborough",1
-"441","New Hampshire","Carroll",1
-"442","Maine","Cumberland",13
-"443","Maine","Lincoln",2
-"444","Maine","Androscoggin",1
-"445","Maine","Knox",1
-"446","Vermont","Chittenden",4
-"447","Vermont","Bennington",3
-"448","Vermont","Windsor",3
-"449","Vermont","Washington",1
-"450","Vermont","Orange",1
-"451","Mississippi","Forrest",3
-"452","Mississippi","Pearl River",2
-"453","Mississippi","Copiah",2
-"454","Mississippi","Hinds",2
-"455","Mississippi","Leflore",1
-"456","Mississippi","Hancock",1
-"457","Mississippi","Monroe",1
-"458","Kansas","Johnson",8
-"459","Kansas","Wyandotte",1
-"460","Kansas","Butler",1
-"461","Kansas","Franklin",1
-"462","Oklahoma","Tulsa",3
-"463","Oklahoma","Cleveland",2
-"464","Oklahoma","Jackson",1
-"465","Oklahoma","Oklahoma",1
-"466","Oklahoma","Payne",1
-"467","Oklahoma","Kay",1
-"468","Oklahoma","Canadian",1
-"469","Hawaii","Honolulu",6
-"470","Hawaii","Kauai",2
-"471","Hawaii","Maui",2
-"472","South Dakota","Minnehaha",4
-"473","South Dakota","Pennington",1
-"474","South Dakota","Beadle",1
-"475","South Dakota","Charles Mix",1
-"476","South Dakota","Davison",1
-"477","South Dakota","Bon Homme",1
-"478","South Dakota","McCook",1
-"479","Wyoming","Fremont",8
-"480","Wyoming","Sheridan",2
-"482","Missouri","Saint Louis",4
-"483","Missouri","Greene",3
-"484","Missouri","Henry",1
-"486","Missouri","Cass",1
-"487","Montana","Missoula",3
-"488","Montana","Yellowstone",2
-"490","Montana","Gallatin",1
-"491","Montana","Silver Bow",1
-"492","Montana","Broadwater",1
-"493","Delaware","New Castle",8
-"494","Idaho","Ada",2
-"495","Idaho","Blaine",1
-"496","Idaho","Teton",1
-"498","Puerto Rico","Puerto Rico",5
-"500","Alaska","Fairbanks North Star",2
-"501","Alaska","Anchorage",1
-"503","North Dakota","Ward",1
+"225","Texas","Brazos",1
+"226","Pennsylvania","Montgomery",30
+"227","Pennsylvania","Philadelphia",10
+"228","Pennsylvania","Monroe",8
+"229","Pennsylvania","Delaware",7
+"230","Pennsylvania","Bucks",7
+"231","Pennsylvania","Chester",6
+"232","Pennsylvania","Allegheny",6
+"233","Pennsylvania","Cumberland",5
+"234","Pennsylvania","Wayne",1
+"235","Pennsylvania","Northampton",1
+"236","Pennsylvania","Pike",1
+"237","Pennsylvania","Washington",1
+"238","Pennsylvania","Lehigh",1
+"239","Pennsylvania","Luzerne",1
+"240","Pennsylvania","Beaver",1
+"241","Michigan","Oakland",14
+"242","Michigan","Wayne",14
+"243","Michigan","Washtenaw",7
+"244","Michigan","Macomb",6
+"245","Michigan","Kent",5
+"246","Michigan","Ingham",3
+"247","Michigan","Saint Clair",2
+"248","Michigan","Montcalm",1
+"249","Michigan","Bay",1
+"250","Michigan","Charlevoix",1
+"251","Michigan","Monroe",1
+"252","Michigan","Ottawa",1
+"253","Michigan","Grand Traverse",1
+"254","Michigan","Otsego",1
+"255","Minnesota","Hennepin",22
+"256","Minnesota","Ramsey",10
+"257","Minnesota","Dakota",5
+"258","Minnesota","Anoka",3
+"259","Minnesota","Olmsted",3
+"260","Minnesota","Stearns",3
+"261","Minnesota","Washington",2
+"262","Minnesota","Carver",1
+"263","Minnesota","Wright",1
+"264","Minnesota","Renville",1
+"265","Minnesota","Waseca",1
+"266","Minnesota","Blue Earth",1
+"267","Minnesota","Benton",1
+"268","Tennessee","Davidson",25
+"269","Tennessee","Williamson",18
+"270","Tennessee","Shelby",2
+"271","Tennessee","Sullivan",1
+"272","Tennessee","Knox",1
+"273","Tennessee","Hamilton",1
+"274","Tennessee","Jefferson",1
+"275","Tennessee","Rutherford",1
+"276","Tennessee","Campbell",1
+"277","Tennessee","Sevier",1
+"278","Virginia","Fairfax",10
+"279","Virginia","James City",10
+"280","Virginia","Arlington",9
+"281","Virginia","Loudoun",5
+"282","Virginia","Virginia Beach",4
+"283","Virginia","Prince William",3
+"284","Virginia","Alexandria",2
+"285","Virginia","Chesterfield",2
+"286","Virginia","Spotsylvania",1
+"287","Virginia","Hanover",1
+"288","Virginia","Prince Edward",1
+"289","Virginia","Harrisonburg",1
+"290","Virginia","Charlottesville",1
+"291","Virginia","Stafford",1
+"292","Virginia","Henrico",1
+"293","Virginia","York",0
+"294","Oregon","Washington",14
+"295","Oregon","Linn",14
+"296","Oregon","Deschutes",6
+"297","Oregon","Marion",3
+"298","Oregon","Jackson",2
+"299","Oregon","Umatilla",2
+"300","Oregon","Multnomah",2
+"301","Oregon","Clackamas",2
+"302","Oregon","Benton",2
+"303","Oregon","Klamath",1
+"304","Oregon","Douglas",1
+"305","Oregon","Polk",1
+"306","Oregon","Yamhill",1
+"307","Ohio","Cuyahoga",24
+"308","Ohio","Butler",6
+"309","Ohio","Stark",3
+"310","Ohio","Franklin",3
+"311","Ohio","Lorain",3
+"312","Ohio","Trumbull",2
+"313","Ohio","Belmont",2
+"314","Ohio","Summit",2
+"315","Ohio","Medina",2
+"316","Ohio","Lucas",1
+"317","Ohio","Tuscarawas",1
+"318","Ohio","Geauga",1
+"319","Wisconsin","Milwaukee",13
+"320","Wisconsin","Fond du Lac",11
+"321","Wisconsin","Dane",10
+"322","Wisconsin","Waukesha",3
+"323","Wisconsin","Sheboygan",3
+"324","Wisconsin","Winnebago",3
+"325","Wisconsin","Pierce",1
+"326","Wisconsin","Racine",1
+"327","Wisconsin","Wood",1
+"328","Wisconsin","Outagamie",1
+"329","Wisconsin","Kenosha",1
+"332","Nevada","Clark",35
+"333","Nevada","Washoe",9
+"334","Nevada","Carson City",1
+"335","Maryland","Montgomery",15
+"336","Maryland","Prince George's",10
+"337","Maryland","Baltimore",6
+"338","Maryland","Howard",4
+"339","Maryland","Harford",2
+"341","Maryland","Charles",1
+"342","Maryland","Anne Arundel",1
+"343","Maryland","Carroll",1
+"344","Maryland","Talbot",1
+"345","Maryland","Frederick",1
+"346","Utah","Salt Lake",16
+"348","Utah","Summit",6
+"349","Utah","Davis",4
+"350","Utah","Weber",2
+"352","Utah","Tooele",1
+"353","Utah","Wasatch",1
+"354","Connecticut","Fairfield",29
+"355","Connecticut","Litchfield",4
+"356","Connecticut","Hartford",4
+"357","Connecticut","New Haven",4
+"358","North Carolina","Wake",15
+"359","North Carolina","Mecklenburg",7
+"360","North Carolina","Harnett",3
+"361","North Carolina","Forsyth",2
+"362","North Carolina","Johnston",2
+"363","North Carolina","Chatham",1
+"364","North Carolina","Durham",1
+"365","North Carolina","Cabarrus",1
+"366","North Carolina","Onslow",1
+"367","North Carolina","Wayne",1
+"368","North Carolina","Brunswick",1
+"369","North Carolina","Craven",1
+"370","North Carolina","Watauga",1
+"371","North Carolina","Wilson",1
+"372","North Carolina","Iredell",1
+"373","North Carolina","Sampson",1
+"374","South Carolina","Kershaw",15
+"375","South Carolina","Beaufort",3
+"376","South Carolina","Horry",3
+"378","South Carolina","Lancaster",2
+"379","South Carolina","Lexington",2
+"380","South Carolina","Anderson",2
+"381","South Carolina","Charleston",1
+"382","South Carolina","Spartanburg",1
+"383","South Carolina","Greenville",1
+"384","South Carolina","Georgetown",1
+"385","Indiana","Marion",9
+"386","Indiana","Hendricks",3
+"387","Indiana","Johnson",3
+"388","Indiana","Howard",2
+"389","Indiana","Franklin",2
+"390","Indiana","Noble",1
+"391","Indiana","Adams",1
+"392","Indiana","Boone",1
+"393","Indiana","Saint Joseph",1
+"394","Indiana","Hancock",1
+"395","Indiana","Wells",1
+"396","Indiana","LaPorte",1
+"397","Indiana","Hamilton",1
+"398","Indiana","Floyd",1
+"399","Indiana","Bartholomew",1
+"400","Alabama","Jefferson",17
+"401","Alabama","Tuscaloosa",3
+"402","Alabama","Shelby",3
+"403","Alabama","Montgomery",2
+"404","Alabama","Elmore",1
+"405","Alabama","Limestone",1
+"406","Alabama","Baldwin",1
+"407","Alabama","Lee",1
+"408","Kentucky","Fayette",7
+"409","Kentucky","Jefferson",7
+"410","Kentucky","Harrison",6
+"411","Kentucky","Montgomery",2
+"412","Kentucky","Nelson",1
+"413","Kentucky","Clark",1
+"414","Kentucky","Bourbon",1
+"415","Iowa","Johnson",15
+"416","Iowa","Dallas",2
+"417","Iowa","Allamakee",2
+"418","Iowa","Pottawattamie",1
+"419","Iowa","Carroll",1
+"420","Iowa","Harrison",1
+"421","Iowa","Polk",1
+"422","District of Columbia","District of Columbia",22
+"425","Arkansas","Jefferson",3
+"426","Rhode Island","Providence",21
+"427","New Mexico","Bernalillo",14
+"428","New Mexico","Santa Fe",3
+"429","New Mexico","Socorro",2
+"430","New Mexico","Sandoval",2
+"433","Arizona","Maricopa",8
+"434","Arizona","Pinal",5
+"435","Arizona","Pima",4
+"436","Arizona","Graham",1
+"437","Nebraska","Douglas",16
+"438","Nebraska","Knox",1
+"439","Nebraska","Cass",1
+"440","New Hampshire","Rockingham",10
+"441","New Hampshire","Grafton",5
+"442","New Hampshire","Hillsborough",1
+"443","New Hampshire","Carroll",1
+"444","Maine","Cumberland",13
+"445","Maine","Lincoln",2
+"446","Maine","Androscoggin",1
+"447","Maine","Knox",1
+"448","Vermont","Chittenden",4
+"449","Vermont","Bennington",3
+"450","Vermont","Windsor",3
+"451","Vermont","Washington",1
+"452","Vermont","Orange",1
+"453","Mississippi","Forrest",3
+"454","Mississippi","Pearl River",2
+"455","Mississippi","Copiah",2
+"456","Mississippi","Hinds",2
+"457","Mississippi","Leflore",1
+"458","Mississippi","Hancock",1
+"459","Mississippi","Monroe",1
+"460","Kansas","Johnson",8
+"461","Kansas","Wyandotte",1
+"462","Kansas","Butler",1
+"463","Kansas","Franklin",1
+"464","Oklahoma","Tulsa",3
+"465","Oklahoma","Cleveland",2
+"466","Oklahoma","Jackson",1
+"467","Oklahoma","Oklahoma",1
+"468","Oklahoma","Payne",1
+"469","Oklahoma","Kay",1
+"470","Oklahoma","Canadian",1
+"471","Hawaii","Honolulu",6
+"472","Hawaii","Kauai",2
+"473","Hawaii","Maui",2
+"474","South Dakota","Minnehaha",4
+"475","South Dakota","Pennington",1
+"476","South Dakota","Beadle",1
+"477","South Dakota","Charles Mix",1
+"478","South Dakota","Davison",1
+"479","South Dakota","Bon Homme",1
+"480","South Dakota","McCook",1
+"481","Wyoming","Fremont",8
+"482","Wyoming","Sheridan",2
+"484","Missouri","Saint Louis",4
+"485","Missouri","Greene",3
+"486","Missouri","Henry",1
+"488","Missouri","Cass",1
+"489","Montana","Missoula",3
+"490","Montana","Yellowstone",2
+"492","Montana","Gallatin",1
+"493","Montana","Silver Bow",1
+"494","Montana","Broadwater",1
+"495","Delaware","New Castle",8
+"496","Idaho","Ada",2
+"497","Idaho","Blaine",1
+"498","Idaho","Teton",1
+"500","Puerto Rico","Puerto Rico",5
+"502","Alaska","Fairbanks North Star",2
+"503","Alaska","Anchorage",1
+"505","North Dakota","Ward",1
