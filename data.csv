@@ -216,8 +216,8 @@
 "225","Pennsylvania","Philadelphia",10
 "226","Pennsylvania","Monroe",8
 "227","Pennsylvania","Delaware",7
-"228","Pennsylvania","Allegheny",6
-"229","Pennsylvania","Bucks",5
+"228","Pennsylvania","Bucks",7
+"229","Pennsylvania","Allegheny",6
 "230","Pennsylvania","Cumberland",5
 "231","Pennsylvania","Chester",2
 "232","Pennsylvania","Wayne",1
@@ -459,6 +459,7 @@
 "478","Missouri","Saint Louis",4
 "479","Missouri","Greene",3
 "480","Missouri","Henry",1
+"482","Missouri","Cass",1
 "483","Montana","Missoula",3
 "484","Montana","Yellowstone",2
 "486","Montana","Gallatin",1
