@@ -29,7 +29,7 @@
 "29","New York","Sullivan",1
 "30","New York","Rensselaer",1
 "31","New York","Wyoming",1
-"32","Washington","King",488
+"32","Washington","King",518
 "33","Washington","Snohomish",266
 "35","Washington","Pierce",45
 "36","Washington","Skagit",9
@@ -148,7 +148,7 @@
 "155","Illinois","Cook",107
 "156","Illinois","Dupage",26
 "157","Illinois","Lake",7
-"158","Illinois","Sangamon",5
+"158","Illinois","Sangamon",4
 "159","Illinois","Kane",3
 "160","Illinois","McHenry",2
 "161","Illinois","Saint Clair",2
@@ -371,7 +371,7 @@
 "384","Minnesota","Benton",1
 "385","Nevada","Clark",42
 "386","Nevada","Washoe",12
-"387","Nevada","Carson City",1
+"387","Nevada","Carson City",2
 "389","Utah","Salt Lake",20
 "391","Utah","Summit",8
 "392","Utah","Davis",4
@@ -387,6 +387,7 @@
 "406","South Carolina","Anderson",2
 "407","South Carolina","Greenville",2
 "408","South Carolina","Spartanburg",1
+"409","South Carolina","Fairfield",1
 "410","South Carolina","Calhoun",1
 "411","South Carolina","Richland",1
 "412","South Carolina","York",1
@@ -469,16 +470,16 @@
 "497","Oklahoma","Payne",1
 "498","Oklahoma","Canadian",1
 "499","Oklahoma","Pawnee",1
-"500","New Hampshire","Rockingham",10
-"501","New Hampshire","Grafton",5
-"502","New Hampshire","Hillsborough",1
-"503","New Hampshire","Carroll",1
-"504","Kansas","Johnson",10
-"505","Kansas","Wyandotte",3
-"506","Kansas","Butler",1
-"507","Kansas","Franklin",1
-"508","Kansas","Ford",1
-"509","Kansas","Douglas",1
+"500","Kansas","Johnson",10
+"501","Kansas","Wyandotte",4
+"502","Kansas","Butler",1
+"503","Kansas","Franklin",1
+"504","Kansas","Ford",1
+"505","Kansas","Douglas",1
+"506","New Hampshire","Rockingham",10
+"507","New Hampshire","Grafton",5
+"508","New Hampshire","Hillsborough",1
+"509","New Hampshire","Carroll",1
 "510","Delaware","New Castle",15
 "511","Delaware","Sussex",1
 "512","Vermont","Chittenden",4
