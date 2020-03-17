@@ -2,15 +2,15 @@
 "1","New York","New York",644
 "2","New York","Westchester",380
 "4","New York","Nassau",140
-"5","New York","Suffolk",84
+"5","New York","Suffolk",97
 "6","New York","Albany",23
 "7","New York","Rockland",22
 "8","New York","Dutchess",16
 "9","New York","Orange",15
 "10","New York","Monroe",14
-"11","New York","Saratoga",9
-"12","New York","Ulster",8
-"13","New York","Erie",7
+"11","New York","Erie",10
+"12","New York","Saratoga",9
+"13","New York","Ulster",8
 "14","New York","Schenectady",5
 "15","New York","Tompkins",2
 "16","New York","Putnam",2
@@ -47,8 +47,8 @@
 "48","Washington","Lincoln",1
 "49","Washington","Cowlitz",1
 "50","Washington","Lewis",1
-"51","California","Santa Clara",138
-"52","California","Los Angeles",94
+"51","California","Los Angeles",144
+"52","California","Santa Clara",138
 "53","California","San Mateo",64
 "54","California","San Diego",57
 "55","California","San Francisco",40
@@ -63,9 +63,9 @@
 "64","California","Solano",7
 "65","California","Placer",5
 "66","California","Sonoma",6
-"67","California","Ventura",4
-"68","California","San Benito",3
-"69","California","Yolo",3
+"67","California","Yolo",4
+"68","California","Ventura",4
+"69","California","San Benito",3
 "70","California","Stanislaus",3
 "71","California","Tulare",3
 "72","California","San Luis Obispo",3
@@ -94,15 +94,15 @@
 "96","New Jersey","Camden",3
 "97","New Jersey","Gloucester",2
 "98","Massachusetts","Middlesex",89
-"99","Massachusetts","Suffolk",36
-"100","Massachusetts","Norfolk",36
+"99","Massachusetts","Norfolk",43
+"100","Massachusetts","Suffolk",42
 "101","Massachusetts","Berkshire",14
+"102","Massachusetts","Worcester",8
 "103","Massachusetts","Essex",8
-"104","Massachusetts","Worcester",6
-"105","Massachusetts","Bristol",5
-"106","Massachusetts","Plymouth",3
-"107","Massachusetts","Barnstable",2
-"108","Massachusetts","Hampden",1
+"104","Massachusetts","Bristol",5
+"105","Massachusetts","Plymouth",5
+"106","Massachusetts","Barnstable",2
+"107","Massachusetts","Hampden",1
 "109","Florida","Broward",43
 "110","Florida","Miami-Dade",32
 "112","Florida","Volusia",10
