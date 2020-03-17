@@ -35,12 +35,12 @@
 "36","Washington","Kitsap",7
 "37","Washington","Skagit",7
 "38","Washington","Island",7
-"39","Washington","Clark",4
-"40","Washington","Thurston",4
-"41","Washington","Yakima",4
-"42","Washington","Jefferson",3
-"43","Washington","Kittitas",3
-"44","Washington","Whatcom",3
+"39","Washington","Whatcom",5
+"40","Washington","Clark",4
+"41","Washington","Thurston",4
+"42","Washington","Yakima",4
+"43","Washington","Jefferson",3
+"44","Washington","Kittitas",3
 "45","Washington","Spokane",3
 "46","Washington","Grays Harbor",1
 "47","Washington","Columbia",1
@@ -79,20 +79,20 @@
 "80","California","Santa Barbara",1
 "81","California","Nevada",1
 "82","New Jersey","Bergen",84
-"83","New Jersey","Hudson",20
-"84","New Jersey","Essex",20
-"85","New Jersey","Middlesex",17
-"86","New Jersey","Monmouth",14
-"87","New Jersey","Passaic",8
-"88","New Jersey","Union",8
-"89","New Jersey","Morris",6
-"90","New Jersey","Mercer",6
-"91","New Jersey","Burlington",5
-"92","New Jersey","Somerset",5
-"93","New Jersey","Camden",3
-"94","New Jersey","Ocean",3
-"95","New Jersey","Gloucester",2
-"96","New Jersey","Hunterdon",1
+"83","New Jersey","Essex",32
+"84","New Jersey","Hudson",24
+"85","New Jersey","Monmouth",22
+"86","New Jersey","Middlesex",22
+"87","New Jersey","Union",15
+"88","New Jersey","Passaic",10
+"89","New Jersey","Mercer",9
+"90","New Jersey","Morris",7
+"91","New Jersey","Somerset",7
+"92","New Jersey","Burlington",5
+"93","New Jersey","Ocean",4
+"94","New Jersey","Hunterdon",4
+"95","New Jersey","Camden",3
+"96","New Jersey","Gloucester",2
 "97","Massachusetts","Middlesex",83
 "98","Massachusetts","Suffolk",36
 "99","Massachusetts","Norfolk",36
