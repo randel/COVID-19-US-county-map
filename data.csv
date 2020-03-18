@@ -72,10 +72,10 @@
 "73","California","Stanislaus",3
 "74","California","Tulare",3
 "75","California","San Luis Obispo",3
-"76","California","Fresno",2
-"77","California","Calaveras",2
-"78","California","Imperial",2
-"79","California","San Bernardino",2
+"76","California","San Bernardino",3
+"77","California","Fresno",2
+"78","California","Calaveras",2
+"79","California","Imperial",2
 "80","California","Santa Barbara",2
 "81","California","Monterey",2
 "82","California","Humboldt",1
@@ -494,8 +494,8 @@
 "513","Delaware","Sussex",1
 "514","Missouri","Saint Louis",5
 "515","Missouri","Greene",4
-"516","Missouri","Henry",1
-"518","Missouri","Cass",1
+"516","Missouri","Cass",2
+"517","Missouri","Henry",1
 "519","Missouri","Jackson",1
 "520","Missouri","Cole",1
 "521","Missouri","Boone",1
