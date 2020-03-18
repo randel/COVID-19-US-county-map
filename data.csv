@@ -59,19 +59,19 @@
 "60","California","Contra Costa",39
 "61","California","Orange",29
 "62","California","Alameda",27
-"63","California","Riverside",15
+"63","California","Riverside",16
 "64","California","Santa Cruz",13
 "65","California","San Joaquin",13
 "66","California","Marin",11
 "67","California","Ventura",10
 "68","California","Solano",7
-"69","California","Placer",5
-"70","California","Yolo",4
-"71","California","Sonoma",5
-"72","California","San Benito",3
-"73","California","Stanislaus",3
-"74","California","Tulare",3
-"75","California","San Luis Obispo",3
+"69","California","San Luis Obispo",6
+"70","California","Placer",5
+"71","California","Yolo",4
+"72","California","Sonoma",5
+"73","California","San Benito",3
+"74","California","Stanislaus",3
+"75","California","Tulare",3
 "76","California","San Bernardino",3
 "77","California","Fresno",2
 "78","California","Calaveras",2
@@ -209,12 +209,12 @@
 "216","Texas","Dallas",28
 "217","Texas","Travis",17
 "218","Texas","Harris",16
-"219","Texas","Fort Bend",10
-"220","Texas","Collin",8
-"221","Texas","Tarrant",6
-"222","Texas","Smith",5
-"223","Texas","Montgomery",4
-"224","Texas","Bexar",4
+"219","Texas","Bexar",11
+"220","Texas","Fort Bend",10
+"221","Texas","Collin",8
+"222","Texas","Tarrant",6
+"223","Texas","Smith",5
+"224","Texas","Montgomery",4
 "225","Texas","El Paso",3
 "226","Texas","Hays",3
 "227","Texas","Bell",2
@@ -505,31 +505,32 @@
 "527","Missouri","Jackson",1
 "528","Missouri","Cole",1
 "529","Missouri","Boone",1
-"530","South Dakota","Minnehaha",5
-"531","South Dakota","Pennington",1
-"532","South Dakota","Beadle",1
-"533","South Dakota","Charles Mix",1
-"534","South Dakota","Davison",1
-"535","South Dakota","Bon Homme",1
-"536","South Dakota","McCook",1
-"537","Wyoming","Fremont",8
-"538","Wyoming","Sheridan",2
-"539","Wyoming","Laramie",1
-"540","Hawaii","Honolulu",6
-"541","Hawaii","Kauai",2
-"542","Hawaii","Maui",2
-"543","Montana","Missoula",3
-"544","Montana","Yellowstone",2
-"546","Montana","Gallatin",1
-"547","Montana","Silver Bow",1
-"548","Montana","Broadwater",1
-"549","Idaho","Ada",3
-"550","Idaho","Blaine",3
-"551","Idaho","Teton",1
-"552","Idaho","Madison",1
-"553","North Dakota","Ward",2
-"554","North Dakota","Burleigh",2
-"555","North Dakota","Cass",1
-"556","Puerto Rico","Puerto Rico",5
-"558","Alaska","Fairbanks North Star",2
-"559","Alaska","Anchorage",1
+"530","Hawaii","Honolulu",8
+"531","Hawaii","Maui",3
+"532","Hawaii","Kauai",2
+"533","Hawaii","Hawaii Island",1
+"534","South Dakota","Minnehaha",5
+"535","South Dakota","Pennington",1
+"536","South Dakota","Beadle",1
+"537","South Dakota","Charles Mix",1
+"538","South Dakota","Davison",1
+"539","South Dakota","Bon Homme",1
+"540","South Dakota","McCook",1
+"541","Wyoming","Fremont",8
+"542","Wyoming","Sheridan",2
+"543","Wyoming","Laramie",1
+"544","Montana","Missoula",3
+"545","Montana","Yellowstone",2
+"547","Montana","Gallatin",1
+"548","Montana","Silver Bow",1
+"549","Montana","Broadwater",1
+"550","Idaho","Ada",3
+"551","Idaho","Blaine",3
+"552","Idaho","Teton",1
+"553","Idaho","Madison",1
+"554","North Dakota","Ward",2
+"555","North Dakota","Burleigh",2
+"556","North Dakota","Cass",1
+"557","Puerto Rico","Puerto Rico",5
+"559","Alaska","Fairbanks North Star",2
+"560","Alaska","Anchorage",1
