@@ -55,7 +55,7 @@
 "56","Washington","Mason",1
 "57","California","Santa Clara",155
 "58","California","Los Angeles",144
-"59","California","San Mateo",64
+"59","California","San Mateo",80
 "60","California","San Diego",62
 "61","California","San Francisco",43
 "62","California","Sacramento",40
@@ -67,9 +67,9 @@
 "68","California","Santa Cruz",13
 "69","California","San Joaquin",13
 "70","California","Ventura",10
-"71","California","Solano",7
-"72","California","San Luis Obispo",6
-"73","California","Placer",5
+"71","California","Placer",9
+"72","California","Solano",7
+"73","California","San Luis Obispo",6
 "74","California","Yolo",4
 "75","California","Stanislaus",4
 "76","California","Tulare",4
@@ -86,71 +86,71 @@
 "87","California","Shasta",1
 "88","California","Nevada",1
 "89","California","Kern",1
-"90","New Jersey","Bergen",84
-"91","New Jersey","Essex",32
-"92","New Jersey","Hudson",24
-"93","New Jersey","Monmouth",22
-"94","New Jersey","Middlesex",22
-"96","New Jersey","Union",15
-"97","New Jersey","Passaic",10
-"98","New Jersey","Mercer",9
-"99","New Jersey","Morris",7
-"100","New Jersey","Somerset",7
-"101","New Jersey","Burlington",5
-"102","New Jersey","Ocean",4
-"103","New Jersey","Hunterdon",4
-"104","New Jersey","Camden",3
-"105","New Jersey","Gloucester",2
-"106","Louisiana","Orleans",176
-"107","Louisiana","Jefferson",37
-"108","Louisiana","Saint Tammany",6
-"109","Louisiana","Caddo",5
-"110","Louisiana","Lafourche",3
-"111","Louisiana","Saint Charles",3
-"112","Louisiana","Terrebonne",3
-"113","Louisiana","Saint Bernard",2
-"114","Louisiana","Bossier",1
-"115","Louisiana","Saint John the Baptist",1
-"116","Louisiana","Ascension",1
-"117","Louisiana","Washington",1
-"118","Louisiana","East Baton Rouge",1
-"119","Massachusetts","Middlesex",89
-"120","Massachusetts","Norfolk",43
-"121","Massachusetts","Suffolk",42
-"122","Massachusetts","Berkshire",14
-"123","Massachusetts","Worcester",8
-"124","Massachusetts","Essex",8
-"125","Massachusetts","Bristol",5
-"126","Massachusetts","Plymouth",5
-"127","Massachusetts","Barnstable",2
-"128","Massachusetts","Hampden",1
-"130","Florida","Broward",48
-"131","Florida","Miami-Dade",40
-"133","Florida","Palm Beach",13
-"134","Florida","Duval",10
-"135","Florida","Volusia",9
-"136","Florida","Manatee",7
-"137","Florida","Hillsborough",7
-"139","Florida","Collier",6
-"140","Florida","Orange",6
-"141","Florida","Osceola",6
-"142","Florida","Lee",5
-"143","Florida","Pinellas",4
-"144","Florida","Seminole",4
-"145","Florida","Alachua",4
-"146","Florida","Clay",4
-"147","Florida","Okaloosa",2
-"148","Florida","Pasco",2
-"149","Florida","Sarasota",2
-"150","Florida","Citrus",2
-"151","Florida","Saint Johns",2
-"152","Florida","Santa Rosa",1
-"153","Florida","Charlotte",1
-"154","Florida","Nassau",1
-"155","Florida","Escambia",1
-"156","Florida","Lake",1
-"157","Florida","Brevard",1
-"158","Florida","Polk",1
+"91","Florida","Broward",48
+"92","Florida","Miami-Dade",40
+"94","Florida","Palm Beach",13
+"95","Florida","Duval",10
+"96","Florida","Volusia",9
+"97","Florida","Manatee",7
+"98","Florida","Hillsborough",7
+"100","Florida","Collier",6
+"101","Florida","Orange",6
+"102","Florida","Osceola",6
+"103","Florida","Lee",5
+"104","Florida","Pinellas",4
+"105","Florida","Seminole",4
+"106","Florida","Alachua",4
+"107","Florida","Clay",4
+"108","Florida","Okaloosa",2
+"109","Florida","Pasco",2
+"110","Florida","Sarasota",2
+"111","Florida","Citrus",2
+"112","Florida","Saint Johns",2
+"113","Florida","Santa Rosa",1
+"114","Florida","Charlotte",1
+"115","Florida","Nassau",1
+"116","Florida","Escambia",1
+"117","Florida","Lake",1
+"118","Florida","Brevard",1
+"119","Florida","Polk",1
+"120","New Jersey","Bergen",84
+"121","New Jersey","Essex",32
+"122","New Jersey","Hudson",24
+"123","New Jersey","Monmouth",22
+"124","New Jersey","Middlesex",22
+"126","New Jersey","Union",15
+"127","New Jersey","Passaic",10
+"128","New Jersey","Mercer",9
+"129","New Jersey","Morris",7
+"130","New Jersey","Somerset",7
+"131","New Jersey","Burlington",5
+"132","New Jersey","Ocean",4
+"133","New Jersey","Hunterdon",4
+"134","New Jersey","Camden",3
+"135","New Jersey","Gloucester",2
+"136","Louisiana","Orleans",176
+"137","Louisiana","Jefferson",37
+"138","Louisiana","Saint Tammany",6
+"139","Louisiana","Caddo",5
+"140","Louisiana","Lafourche",3
+"141","Louisiana","Saint Charles",3
+"142","Louisiana","Terrebonne",3
+"143","Louisiana","Saint Bernard",2
+"144","Louisiana","Bossier",1
+"145","Louisiana","Saint John the Baptist",1
+"146","Louisiana","Ascension",1
+"147","Louisiana","Washington",1
+"148","Louisiana","East Baton Rouge",1
+"149","Massachusetts","Middlesex",89
+"150","Massachusetts","Norfolk",43
+"151","Massachusetts","Suffolk",42
+"152","Massachusetts","Berkshire",14
+"153","Massachusetts","Worcester",8
+"154","Massachusetts","Essex",8
+"155","Massachusetts","Bristol",5
+"156","Massachusetts","Plymouth",5
+"157","Massachusetts","Barnstable",2
+"158","Massachusetts","Hampden",1
 "160","Colorado","Denver",38
 "161","Colorado","Eagle",34
 "162","Colorado","Arapahoe",15
