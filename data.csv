@@ -271,24 +271,24 @@
 "279","Tennessee","Rutherford",1
 "280","Tennessee","Campbell",1
 "281","Tennessee","Sevier",1
-"282","Oregon","Washington",21
-"283","Oregon","Linn",15
-"284","Oregon","Deschutes",6
-"285","Oregon","Clackamas",6
-"286","Oregon","Marion",4
-"287","Oregon","Multnomah",3
-"288","Oregon","Jackson",2
-"289","Oregon","Umatilla",2
-"290","Oregon","Polk",2
-"291","Oregon","Benton",2
-"292","Oregon","Lane",2
-"293","Oregon","Klamath",1
-"294","Oregon","Douglas",1
-"295","Oregon","Yamhill",1
-"296","Connecticut","Fairfield",48
-"297","Connecticut","New Haven",8
-"298","Connecticut","Hartford",7
-"299","Connecticut","Litchfield",5
+"282","Connecticut","Fairfield",48
+"283","Connecticut","New Haven",8
+"284","Connecticut","Hartford",7
+"285","Connecticut","Litchfield",5
+"286","Oregon","Washington",21
+"287","Oregon","Linn",15
+"288","Oregon","Deschutes",6
+"289","Oregon","Clackamas",6
+"290","Oregon","Marion",4
+"291","Oregon","Multnomah",3
+"292","Oregon","Jackson",2
+"293","Oregon","Umatilla",2
+"294","Oregon","Polk",2
+"295","Oregon","Benton",2
+"296","Oregon","Klamath",1
+"297","Oregon","Douglas",1
+"298","Oregon","Yamhill",1
+"299","Oregon","Lane",1
 "300","Virginia","Arlington",13
 "301","Virginia","Fairfax",12
 "302","Virginia","James City",12
@@ -412,8 +412,8 @@
 "426","Alabama","Baldwin",1
 "427","Alabama","Saint Clair",1
 "428","Alabama","Madison",1
-"429","Maine","Cumberland",18
-"431","Maine","Androscoggin",2
+"429","Maine","Cumberland",20
+"430","Maine","Androscoggin",3
 "432","Maine","Lincoln",2
 "433","Maine","Knox",1
 "434","Maine","Oxford",1
