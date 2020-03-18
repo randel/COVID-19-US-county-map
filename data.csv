@@ -219,9 +219,9 @@
 "226","Texas","El Paso",3
 "227","Texas","Bell",3
 "228","Texas","Hays",3
-"229","Texas","Galveston",2
-"230","Texas","Brazoria",2
-"231","Texas","Matagorda",2
+"229","Texas","Matagorda",3
+"230","Texas","Galveston",2
+"231","Texas","Brazoria",2
 "232","Texas","Lubbock",2
 "233","Texas","Gregg",1
 "234","Texas","Lavaca",1
@@ -497,15 +497,15 @@
 "519","Vermont","Windsor",3
 "520","Vermont","Washington",1
 "521","Vermont","Orange",1
-"522","Delaware","New Castle",15
-"523","Delaware","Sussex",1
-"524","Missouri","Saint Louis",5
-"525","Missouri","Greene",4
-"526","Missouri","Cass",2
-"527","Missouri","Henry",1
-"529","Missouri","Jackson",1
-"530","Missouri","Cole",1
-"531","Missouri","Boone",1
+"522","Missouri","Saint Louis",5
+"523","Missouri","Greene",4
+"524","Missouri","Cass",2
+"525","Missouri","Jackson",2
+"526","Missouri","Henry",1
+"528","Missouri","Cole",1
+"529","Missouri","Boone",1
+"530","Delaware","New Castle",15
+"531","Delaware","Sussex",1
 "532","Hawaii","Honolulu",8
 "533","Hawaii","Maui",3
 "534","Hawaii","Kauai",2
@@ -529,10 +529,10 @@
 "553","Idaho","Blaine",3
 "554","Idaho","Teton",1
 "555","Idaho","Madison",1
-"556","Guam","Guam",8
-"557","North Dakota","Ward",2
-"558","North Dakota","Burleigh",2
-"559","North Dakota","Cass",1
-"560","Puerto Rico","Puerto Rico",5
+"556","North Dakota","Ward",2
+"557","North Dakota","Burleigh",2
+"558","North Dakota","Cass",1
+"559","Puerto Rico","Puerto Rico",5
+"560","Guam","Guam",5
 "562","Alaska","Fairbanks North Star",2
 "563","Alaska","Anchorage",1
